@@ -6,4 +6,4 @@ p5.js can help implement this imaging technique. The fire squares simulate the n
 ## Picture and Code link
 ![image](readmeImages/Picture1.png)
 ![image](readmeImages/Picture2.png)
-[Link Text](https://happycoding.io/tutorials/p5js/creating-classes/campfire)
+[Link Code](https://happycoding.io/tutorials/p5js/creating-classes/campfire)
